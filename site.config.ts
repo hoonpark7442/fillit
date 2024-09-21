@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '108cc9815b6f8084970bf792ff14234b',
+  rootNotionPageId: '101cc9815b6f8088bee4d44201d385df',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -57,7 +57,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '운동',
-      pageId: 'fffcc9815b6f81f0913dca1ef7373375'
+      pageId: 'f58359830f804d7dbcc65256e9adaa11'
     },
   ]
 })
